@@ -1,4 +1,4 @@
-# Guess-the-color
+# Guess-the-Color
 
 
 
